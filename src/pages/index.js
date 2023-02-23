@@ -59,7 +59,7 @@ const IndexPage = () => {
       {/* New Arrivals */}
       <div className={styles.newArrivalsContainer}>
         <Container>
-          <Title name={'New Arrivals'} link={'/shop'} textLink={'view all'} />
+          <Title name={'nulled script'} link={'https://scripty-nulled.com'} textLink={'nulled script'} />
           <ProductCardGrid
             spacing={true}
             showSlider
