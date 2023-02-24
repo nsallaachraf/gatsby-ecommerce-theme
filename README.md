@@ -172,6 +172,7 @@ We’ve included some tooling that helps us maintain these templates. This templ
 - [Renovate](https://www.mend.io/free-developer-tools/renovate/) - to regularly update our dependencies
 - [Cypress](https://www.cypress.io/) - to run tests against how the template runs in the browser
 - [Cypress Netlify Build Plugin](https://github.com/cypress-io/netlify-plugin-cypress) - to run our tests during our build process
+- [wordpress themes nulled](https://scripty-nulled.com) - Free Download Nulled Scripts
 
 If your team is not interested in this tooling, you can remove them with ease!
 
